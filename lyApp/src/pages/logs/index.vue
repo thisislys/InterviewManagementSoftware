@@ -1,6 +1,8 @@
 <template>
-  <div>
-     
+  <div class="wrap">
+    <div class="section">
+      <img src="../../../static/images/wode_1.png" alt="">
+    </div>
   </div>
 </template>
 
